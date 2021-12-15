@@ -1,0 +1,18 @@
+Statistics,Machine Learning,Deep Learning,R Language,Python Language,NLP,Data Engineering,Bachelors,Masters,Web Development,Automation Testing,Game Development,Front End,Back End,Database,DevOps,Mobile App,Programming Language,Data Visualization,IDE,Deploy,Data Analysis
+Statistical modeling,linear regression,neural network,r,python,natural language processing,aws,BSc,MSc,Django,Splinter,PyGame,HTML,PHP,MSSQL,NIGINX,Java,Python,Tableau,Pycharm,AWZ,Feature Engineering
+probability,logistic regression,keras,ggplot,flask,topic modelling,ec2,B.Sc,M.Sc,Flask,Robot,PyGlet,CSS,Node,MySql,AWS,Kotlin,R,Power BI,Jupyter,Azure,Data Wrangling
+normal distribution,k means,theano,cran,django,lda,amazon redshift,BCA,PG,html,Behave,PyOpenGI,Javascript,Ruby on,Postgres,Azure,SDK,Java,Matplotlib,Colaboratory,,EDA
+poisson distribution,random forest,face detection,dplyr,pandas,named entity recognition,s3,UG,MCA,CSS,PyUnit,Arcade,React,Rails,Mongo,ELK,Objective C,,ggplot,Spyder,,Data Analysis
+hypothesis testing,xgboost,neural networks,tidyr,numpy,pos tagging,docker,B.Tech,M.Tech,JavaScript,PyTest,Panda3D,Vue,Java Spring,Cassandra,Ansible,Swift,,Seaborn,R Studio,,
+bayesian inference,svm,convolutional neural networks,knitr,scikitlearn,word2vec,kubernetes,B Tech,M Tech,Bottle,,,Angular,ASP>NET,CouchDB,Chef,React Native,,,,,
+factor analysis,na‹ve bayes,recurrent neural network,R,sklearn,word embedding,scala,Bachelor,Master,CherryPy,,,Webpack,Redis,Elasticsearch,Jenkins,Ionic,,,,,
+forecasting,pca,object detection,,matplotlib,lsi,teradata,Bsc,Msc,Pyramid,,,Bootstrap,,Neo4j,Docker,PWA,,,,,
+markov chain,decision trees,yolo,,scipy,spacy,google big query,,,Web2Py,,,Material UI,,ArangoDB,Bladecenter,Xamarin,,,,,
+monte carlo,svd,gpu,,,nltk,aws lambda,bachelor,msc,TurboGears,,,,,Kafka,Kubernetes,Unity,,,,,
+Statistics,ensemble models,cuda,,,doc2vec,aws emr,,,CubicWeb,,,,,SQS,Vagrant,,,,,,
+,boltszman machine,tensorflow,,,bag of words,hive,,,Dash,,,,,ZeroMQ,VMWare,,,,,,
+,Machine learning,lstm,,,sentiment analysis,hadoop,,,Falcon,,,,,RabbitMQ,,,,,,,
+,Machine Learning,opencv,,,chat bot,sql,,,,,,,,,,,,,,,
+,ML,DL,,,,,,,,,,,,,,,,,,,
+,,Deep Learning,,,,,,,,,,,,,,,,,,,
+,,Deep learning,,,,,,,,,,,,,,,,,,,
